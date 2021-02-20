@@ -1,0 +1,4 @@
+org/techtown/test/MainActivity.java
+ org.techtown.test.MainActivity
+org/techtown/test/BuildConfig.java
+ org.techtown.test.BuildConfig
